@@ -283,8 +283,8 @@ class Processor:
             icon_url=self.status_tweet["user"]["profile_image_url"],
         )
         self.embed.set_footer(
-            text="Tweet created on",
-            icon_url="https://cdn1.iconfinder.com/data/icons/iconza-circle-social/64/697029-twitter-512.png",
+            text="New Build by ❥一ϻя.Ƭ ✔",
+            icon_url="https://cdn.discordapp.com/attachments/367295988546666509/531179898962837504/Untitled-13.png",
         )
 
     def send_message(self, wh_url):
