@@ -29,6 +29,7 @@ Installations have been written for:
 * [Heroku](http://nntin.github.io/discord-twitter-bot/docs/inst-heroku/)
 * [Docker](http://nntin.github.io/discord-twitter-bot/docs/inst-docker/)
 * [Raspbian](http://nntin.github.io/discord-twitter-bot/docs/inst-raspbian/)
+*  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 # Configuration
 
@@ -41,6 +42,8 @@ The configuration is written very extensively explaining what each variable does
 
 Visit [my server](https://discord.gg/Dkg79tc) to see live twitter feeds. There I am mirroring the tweets of 
 * [@discordapp](https://discordapp.com/channels/295528852518731786/557231331658956831/),
+  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 * [dota 2](https://discordapp.com/channels/295528852518731786/557231354316718080), [lol](https://discordapp.com/channels/295528852518731786/557231372499025922) and [csgo](https://discordapp.com/channels/295528852518731786/557231389540352000) related tweets,
 * tweets made in [Vietnam](https://discordapp.com/channels/295528852518731786/557231418346962957) and 
 * tweets mentioning [Python](https://discordapp.com/channels/295528852518731786/557231451020722186).
