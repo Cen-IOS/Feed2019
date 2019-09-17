@@ -283,8 +283,8 @@ class Processor:
             icon_url=self.status_tweet["user"]["profile_image_url"],
         )
         self.embed.set_footer(
-            text="New Build by ❥一ϻя.Ƭ ✔",
-            icon_url="https://cdn.discordapp.com/attachments/367295988546666509/531179898962837504/Untitled-13.png",
+            text="Được Xây Dựng Bởi Gotcha Mod ㋛....⌛",
+            icon_url="https://cdn.discordapp.com/attachments/367295988546666509/623545198538129408/c40c726b124c964055f7798279ba74e5.png",
         )
 
     def send_message(self, wh_url):
